@@ -2,8 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".browserslistrc" type="Native" />
-      <mapping pattern="calCase.spec.js" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="hggj" type="PLAIN_TEXT" />
+      <mapping pattern="calCase.spec.js" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
